@@ -1,0 +1,12 @@
+{
+	"title" : "Advanced Draw Settings",
+	"type" : "tool",
+	"tags" : ["scenic", "build"],
+	"ignore" :
+	[
+		".git/*",
+		"LICENSE",
+		"README.md",
+		"preview.*"
+	]
+}
